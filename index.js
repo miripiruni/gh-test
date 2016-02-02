@@ -1,2 +1,2 @@
-console.log('My version is 6.0');
-var version = '6.0'
+console.log('My version is 7.0');
+var version = '7.0'
