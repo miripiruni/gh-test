@@ -1,5 +1,5 @@
 (function() {
 
-    console.log('My version is 1.0');
+    console.log('My version is 2.0');
 
 })();
